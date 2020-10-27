@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1063192340758",
+    "firebase_url": "https://morfincan-f2516.firebaseio.com",
+    "project_id": "morfincan-f2516",
+    "storage_bucket": "morfincan-f2516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063192340758:android:bc453596405e8d034b8837",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063192340758-4et418e8r78m0qhsci6a83id1qojhcfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj3DiqjTnRiUWeRfumn3MuehS0crzdytk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063192340758-4et418e8r78m0qhsci6a83id1qojhcfa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063192340758-qbmq430ap2uj7jtvph3upbjilojjrpf6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.morfincan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
